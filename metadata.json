@@ -1,0 +1,8 @@
+{
+  "name": "JASASAJA",
+  "description": "Enterprise B2B/B2G SaaS Platform for BPS Survey Quality Assurance and Logic Consistency Audits matching Pamekasan 2025 specifications",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
